@@ -1,0 +1,1 @@
+print(len(set(''.join([input().lower() for _ in range(int(input()))]))))

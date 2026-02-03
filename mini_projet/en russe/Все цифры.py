@@ -1,0 +1,1 @@
+print(("YES", "NO")[set(input()).issubset(set(input()))])
